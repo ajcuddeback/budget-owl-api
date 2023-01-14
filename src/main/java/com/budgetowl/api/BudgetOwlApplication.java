@@ -1,4 +1,4 @@
-package com.budgetowl.demo;
+package com.budgetowl.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
