@@ -1,4 +1,4 @@
-package com.budgetOwl.api;
+package com.budgetOwl.bootloader;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
